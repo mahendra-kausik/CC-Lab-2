@@ -1,4 +1,4 @@
-# CC_LAB2 - Performance Optimization Project
+# CC LAB - 2 
 
 ## Performance Optimizations
 
